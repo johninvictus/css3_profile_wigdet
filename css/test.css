@@ -1,0 +1,35 @@
+#widget{
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    top: 100px;
+    margin: auto;
+    /*overflow: hidden;*/
+}
+
+#objX{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: #df4b38;
+
+}
+
+#objY{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    right: 20px ;
+    /*overflow: hidden;*/
+}
+
+#objxt{
+    width: 100px;
+    height: 100px;
+    background-color: antiquewhite;
+    position: absolute;
+    /*top: 0px ;*/
+
+}
